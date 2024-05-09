@@ -1,5 +1,13 @@
 # GIT Basics task
 
+[![Made by Adam Cegiełka](https://img.shields.io/badge/made%20by%20-Adam%20Cegielka-blue.svg?style=flat-square)](https://adamcegielka.pl) <br>
+[![GitHub](https://img.shields.io/badge/GitHub-Docs-7E5EDB.svg?logo=github)](https://docs.github.com/en)
+[![Git](https://img.shields.io/badge/Git-Docs-f14e32.svg?logo=git)](https://git-scm.com/doc)
+
+The repository encompasses introductory GitHub exercises as part of the comprehensive training in software development practices provided by the internship.
+
+## Internship Homework
+
 **Part 1**
 
 
