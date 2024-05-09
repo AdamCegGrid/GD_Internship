@@ -7,5 +7,13 @@ body {
 }
 
 .centered-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.centered-content1 {
     align-items: center;
 }
