@@ -10,7 +10,6 @@ The repository encompasses introductory GitHub exercises as part of the comprehe
 
 **Part 1**
 
-
 1. Create account on https://github.com/ 
 2. Install GIT on your workstation https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 3. Setup git: change your global configs (add name and email, setup core text editor).
