@@ -44,3 +44,5 @@ The repository encompasses introductory GitHub exercises as part of the comprehe
 1. Try to inspect your repository with the git log command. Use different options with this command `git log --help`.
 2. Push all your changes with all your branches to origin `git push origin all`.
 3. Execute the command `git reflog` and save its content somewhere (not in the repository) with filename `GIT_Basics_homework.txt`.
+
+[Solution: GIT_Basics_homework](https://drive.google.com/file/d/1D-qrYjU50gk_B3LCrVDugBbWiTq2PfUs/view?usp=sharing)
